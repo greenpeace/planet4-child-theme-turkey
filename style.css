@@ -12,11 +12,6 @@ Tags: light, accessibility-ready
 Text Domain: planet4-child-theme-turkey
 */
 
-.btn-donate {
-  background-color: #c4302b !important;
-  color:white;
-}
-
 .btn-donate:focus, .btn-donate:hover {
   background-color: #ee562d;
 }
