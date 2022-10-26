@@ -57,3 +57,31 @@ Text Domain: planet4-child-theme-turkey
   background-color: #c4302b;
   color: white;
 }
+
+.gform_wrapper.gravity-theme .gform_page_footer input {
+  margin-bottom: 8px;
+  color: white;
+  background-color: #e90325;
+  padding: 10px 50px 10px 50px;
+}
+
+.gform_wrapper.gravity-theme .gfield_label {
+  font-size: 26px !important;
+}
+
+.gform_wrapper .gfield_radio li label {
+  height: 50px;
+  line-height: 50px !important;
+  width: 100%;
+  min-width: 100%;
+}
+
+.gform_wrapper.gravity-theme .gfield_checkbox label, .gform_wrapper.gravity-theme .gfield_radio label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1a8e56;
+}
+
+.slider_anket {
+  margin-bottom: -10px;
+}
