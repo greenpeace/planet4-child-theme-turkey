@@ -12,14 +12,6 @@ Tags: light, accessibility-ready
 Text Domain: planet4-child-theme-turkey
 */
 
-.btn-donate:focus, .btn-donate:hover {
-  background-color: #ee562d;
-}
-
-.top-navigation .btn-donate {
-  color: #fff;
-}
-
 @media (min-width:768px) {
   .happy-point-block-wrap .happy-point {
     padding-top:150px;
@@ -51,11 +43,6 @@ Text Domain: planet4-child-theme-turkey
 .page-template > p {
   margin-top: 11px;
   margin-bottom: 2px;
-}
-
-.top-navigation .btn-donate {
-  background-color: #c4302b;
-  color: white;
 }
 
 .gform_wrapper.gravity-theme .gform_page_footer input {
